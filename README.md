@@ -6,6 +6,25 @@
 
 **Route Gh** is an all-in-one bulk messaging and service delivery platform built for your business growth. Send SMS campaigns, manage contacts, track delivery, and analyze performance—all from a single, intuitive dashboard.
 
+
+---
+## 🔒 Source Code Availability Notice
+
+This repository is intentionally **documentation-only**.
+
+The full application source code for this project is **private** and has not been included here in order to respect **client confidentiality and intellectual property agreements**.
+
+What *is* included in this repository:
+- System and architectural documentation
+- AWS deployment and infrastructure setup
+- Environment configuration samples
+- Dependency definitions (`composer.json`, `package.json`, etc.)
+- Test results and operational notes
+
+---
+
+> 🔐 **Note:** Code access or live demos can be provided upon request, subject to client approval or under NDA.
+
 ---
 
 ## 📋 Table of Contents
