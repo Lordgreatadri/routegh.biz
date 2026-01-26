@@ -1,4 +1,20 @@
-# Route Gh - Bulk SMS & Service Delivery Platform
+
+# Routegh.Biz — Project Documentation & Showcase
+
+A production-grade application’s documentation, deployment notes, and environment details for technical review.  
+**Client source code is intentionally excluded for confidentiality.**
+
+---
+## 📌 What’s Included
+
+This repository contains:
+- Deployment instructions (AWS, environments)
+- Setup guides (SMS, Quick start)
+- Dependency manifests (`composer.json`, `package.json`)
+- Test results and methodology
+- Environment sample (`.env.example`)
+- Supporting tooling configurations
+---
 
 <p align="center">
   <img src="./assets/Project-Landing-Page.jpg" alt="Route Gh Landing Page" width="800">
@@ -23,7 +39,8 @@ What *is* included in this repository:
 
 ---
 
-> 🔐 **Note:** Code access or live demos can be provided upon request, subject to client approval or under NDA.
+> 🔒 **Important:** The full application codebase is not included in this repository in order to protect client IP and honor contractual confidentiality agreements.  
+> Access to source code or live demos can be shared upon request and with proper authorization and client approval or under NDA.
 
 ---
 
