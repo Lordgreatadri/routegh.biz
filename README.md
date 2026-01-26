@@ -43,6 +43,16 @@ What *is* included in this repository:
 > Access to source code or live demos can be shared upon request and with proper authorization and client approval or under NDA.
 
 ---
+## 🚀 What This Demonstrates
+
+This repository showcases:
+✔ Professional documentation practices  
+✔ Environment configuration & infrastructure setup  
+✔ Dependency management  
+✔ Deployment & operations (AWS)  
+✔ Clear separation of code versus configuration  
+
+---
 
 ## 📋 Table of Contents
 
