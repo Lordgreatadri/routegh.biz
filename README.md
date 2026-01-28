@@ -563,7 +563,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Issues**: GitHub Issues
 - **GitHub**: 🌐[Lordgreatadri](https://github.com/Lordgreatadri)
 - **Email**:   📧<a href="mailto:lordgreatadri@gmail.com">Lordgreatadri</a>
-- **LinkedIn**:💼 <a href="https://linkedin.com/in/emmanuel-lordgreat-adri/">Emmanuel Lordgreat-Adri</a>
+- **LinkedIn**:💼 <a href="https://linkedin.com/in/emmanuel-lordgreat-adri/" target="_blank">Emmanuel Lordgreat-Adri</a>
 
 ---
 
